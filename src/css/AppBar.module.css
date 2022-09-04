@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #2A363B;
+    
+}
+
+.link {
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 700;
+    color: #000000;
+}
+
+.activeLink{
+    display: inline-block;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: 700;
+    color: #7fff00;;
+        
+}
+
+.container {
+    display: 'flex';
+    align-items: 'center';
+}
+
+.avatar {
+    margin-right: 4px;
+}
+
+.name {
+    font-weight: 700;
+    margin-right: 12px;
+}
+
+
+.userBlock{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}

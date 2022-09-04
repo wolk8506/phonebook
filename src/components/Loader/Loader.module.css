@@ -1,0 +1,16 @@
+.loader{
+    background-color: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+
+}
+
+.loader div{
+    justify-content: center;
+    height: 50vh;
+    align-items: flex-end
+
+}

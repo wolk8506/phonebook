@@ -1,0 +1,30 @@
+@import-normalize; /* bring in normalize.css styles */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: linear-gradient(270deg, #29323c 0%, #485563 100%);
+  padding-top: 50px;
+  margin-bottom: 30px;
+  padding: 30px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.functionContact{
+  display: flex;
+  align-items: center;
+    justify-content: space-evenly;
+}

@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wolk8506.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://wolk8506.github.io/phonebook/",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
